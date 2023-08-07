@@ -1,5 +1,5 @@
 ### About Me 👋
-Research staff in **Network Security**, now working on the Design and Implementation of Innovative countermeasures against advanced cyber threats in a variety of network domains, including `5/6G`, `SDN`, `V2X`, and `IoT` networks.
+As a passionated Research staff in the field of **Network Security**, I'm now working on the Design and Implementation of Innovative countermeasures against advanced cyber threats in a variety of network domains, including `5/6G`, `SDN`, `V2X`, and `IoT` networks.
 <br></br>
 
 ### Research Interest 🔭
