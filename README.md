@@ -13,33 +13,32 @@ As a passionated Research staff in the field of **Network Security**, I'm now wo
 ### Skills ⚡
 #### Lang
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48px" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48px" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48px" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48px" align="center"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/go/go-original-wordmark.svg' height="80px" align="center"/>
 </p>
 
 #### Platform / Framework
 <p>
-<img src="https://aboutnetworks.net/wp-content/uploads/2020/05/tcpdump-logo.jpg" height="48px"/>
-<img src="https://www.intel.co.kr/content/dam/www/public/us/en/images/illustrations/dpdk-16x9.png.rendition.intel.web.864.486.png" height="48px"/>
-<img src="https://www.sdxcentral.com/wp-content/uploads/2014/03/openflow-2.jpg" height="48px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenDaylight_logo.png" height="48px"/>
-<img src="https://suricata.io/wp-content/uploads/2022/01/Logo-SuricataFinal-1-translucent.png" height="48px"/>
+<img src="https://www.sdxcentral.com/wp-content/uploads/2014/03/openflow-2.jpg" height="64px" align="center"/>
+<img src="https://www.intel.co.kr/content/dam/www/public/us/en/images/illustrations/dpdk-16x9.png.rendition.intel.web.864.486.png" height="64px" align="center"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenDaylight_logo.png" height="64px" align="center"/>
+<img src="https://suricata.io/wp-content/uploads/2022/01/Logo-SuricataFinal-1-translucent.png" height="64px" align="center"/>
 </p>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="48px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48px""/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48px" />
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" height="48px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="48px"/> 
-<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/38/thumb_bigger_formation-elasticsearch.png" height="48px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="64px" align="center"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48px" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48px" align="center"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png" height="64px" align="center"/>
+<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/38/thumb_bigger_formation-elasticsearch.png" height="48px" align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48px" align="center"/>
 </p>
 
 
 <!--
-**Lil-pyro/Lil-pyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**byanko55/byanko55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
